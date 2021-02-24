@@ -8,3 +8,4 @@
 - 👯 I’m looking to collaborate on Computer Vision/Machine Learning projects
 - 📫 Reach me: [twitter.com/mshaheryarmalik](https://twitter.com/mshaheryarmalik)
 - ⚡ Fun fact: I love playing around with machine learning algorithms
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mshaheryarmalik)]
