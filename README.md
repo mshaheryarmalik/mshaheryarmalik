@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-#### I'm a Software Engineer Intern at Microsoft in Tampere, Finland.
+#### I'm a Software Engineer (Machine Learning)
 
-- 🏢 I'm currently working at [Microsoft](https://www.microsoft.com)
+- 🏢 I'm currently studying at [Mälardalens University](https://www.mdu.se/)
 - 🔭 Worked on: **Face Recognition** | **Anomaly Detection Engine** | **Windows Logon Agent**
 - 🌱 I’m currently learning about **Cybersecurity | Cloud Computing | Anomaly Detection**
 - 👯 I’m looking to collaborate on Computer Vision/Machine Learning projects
